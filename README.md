@@ -11,7 +11,7 @@ This repository contains Jupyter notebooks demonstrating key machine learning al
 
 1. Clone the repo:
    ```bash
-   git clone <repo_url>
+   git clone <https://github.com/phanng0605/final-cmor432.git>
    cd cmor438-inde577-final
 2. Create environment & install:
     ```bash
