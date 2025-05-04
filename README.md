@@ -1,6 +1,8 @@
 # CMOR + INDE Final Project: Library Implementations
 Name: Nguyen Trong Phan
+
 Student ID: S01511279
+
 This repository contains Jupyter notebooks demonstrating key machine learning algorithms
 
 ## Sections
